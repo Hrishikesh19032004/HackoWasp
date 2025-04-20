@@ -2,12 +2,8 @@
 
 ## Overview
 
-![WhatsApp Image 2025-04-20 at 12 34 33](https://github.com/user-attachments/assets/dd477d8a-e206-4264-bd29-6aa9c1600bcc)
-
-
-
-
 **Aahar Setu** is an innovative web and mobile application designed to tackle food wastage by connecting food donors with recipients, and offering solutions for food surplus management. With the growing issue of food insecurity and environmental sustainability, Aahar Setu serves as a bridge between donors (individuals, businesses, and organizations) and receivers (NGOs, community kitchens, and underprivileged individuals) to redistribute surplus food efficiently. The platform offers real-time food wastage analysis, fraud detection, and an engaging leaderboard system to encourage participation in food donation and sustainable practices.
+![WhatsApp Image 2025-04-20 at 12 34 33](https://github.com/user-attachments/assets/92168234-1475-443a-a9ca-d39185e21e52)
 
 ## Key Features
 
@@ -30,6 +26,7 @@
 ### 5. **Food Delivery Map**
    - **Description:** The map feature visualizes the locations of donors and recipients, along with food deliveries. It displays real-time updates, allowing donors and recipients to track food donation progress.
    - **Benefits:** Increases transparency in the food donation process, and helps donors and receivers find the nearest available resources.
+![WhatsApp Image 2025-04-20 at 12 29 49](https://github.com/user-attachments/assets/6a26c89b-6ca9-4b99-860e-007a8f2c2f31)
 
 ### 6. **Recipe Generator for Leftovers**
    - **Description:** This tool suggests creative recipes based on leftover food items available in the fridge, promoting food utilization and minimizing waste.
