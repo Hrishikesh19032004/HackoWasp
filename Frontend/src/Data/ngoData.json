@@ -1,0 +1,525 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8777, 19.076]
+            },
+            "properties": {
+                "NGO Name": "Helping Hands Mumbai",
+                "City": "Mumbai",
+                "Address": "Andheri West, Mumbai",
+                "Description": "An NGO focused on education and healthcare."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8718, 19.0785]
+            },
+            "properties": {
+                "NGO Name": "Teach for India",
+                "City": "Mumbai",
+                "Address": "Dadar, Mumbai",
+                "Description": "A movement to eliminate educational inequity."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8531, 19.0565]
+            },
+            "properties": {
+                "NGO Name": "Akanksha Foundation",
+                "City": "Mumbai",
+                "Address": "Bandra, Mumbai",
+                "Description": "Providing education to underprivileged children."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.209, 28.6139]
+            },
+            "properties": {
+                "NGO Name": "Save the Children",
+                "City": "Delhi",
+                "Address": "Connaught Place, Delhi",
+                "Description": "Advocating for children's rights."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.2167, 28.6460]
+            },
+            "properties": {
+                "NGO Name": "CRY (Child Rights and You)",
+                "City": "Delhi",
+                "Address": "Safdarjung Enclave, Delhi",
+                "Description": "Working for child rights and welfare."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.2419, 28.5837]
+            },
+            "properties": {
+                "NGO Name": "Goonj",
+                "City": "Delhi",
+                "Address": "Nehru Place, Delhi",
+                "Description": "Transforming discarded materials into resources."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.5946, 12.9716]
+            },
+            "properties": {
+                "NGO Name": "Aasha Trust",
+                "City": "Bangalore",
+                "Address": "Indiranagar, Bangalore",
+                "Description": "Providing education and health services."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.5756, 12.9343]
+            },
+            "properties": {
+                "NGO Name": "Sankara Eye Hospital",
+                "City": "Bangalore",
+                "Address": "Shivajinagar, Bangalore",
+                "Description": "Providing affordable eye care services."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.6335, 12.9722]
+            },
+            "properties": {
+                "NGO Name": "Oxfam India",
+                "City": "Bangalore",
+                "Address": "Ashok Nagar, Bangalore",
+                "Description": "Fighting poverty and injustice."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.2785, 13.0827]
+            },
+            "properties": {
+                "NGO Name": "Anna Charitable Trust",
+                "City": "Chennai",
+                "Address": "T. Nagar, Chennai",
+                "Description": "Providing healthcare and education."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.2908, 13.0674]
+            },
+            "properties": {
+                "NGO Name": "United Way Chennai",
+                "City": "Chennai",
+                "Address": "Alwarpet, Chennai",
+                "Description": "Improving lives by mobilizing community resources."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.2385, 13.0346]
+            },
+            "properties": {
+                "NGO Name": "Hand in Hand",
+                "City": "Chennai",
+                "Address": "Kotturpuram, Chennai",
+                "Description": "Empowering communities through sustainable development."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3639, 22.5726]
+            },
+            "properties": {
+                "NGO Name": "The Hope Foundation",
+                "City": "Kolkata",
+                "Address": "Kolkata, West Bengal",
+                "Description": "Providing education and healthcare to children in need."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3639, 22.5822]
+            },
+            "properties": {
+                "NGO Name": "Kolkata Samaritans",
+                "City": "Kolkata",
+                "Address": "Kolkata, West Bengal",
+                "Description": "Supporting street children and providing education."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3461, 22.5582]
+            },
+            "properties": {
+                "NGO Name": "Child in Need Institute",
+                "City": "Kolkata",
+                "Address": "Kolkata, West Bengal",
+                "Description": "Working for the rights of children."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [78.4745, 17.385]
+            },
+            "properties": {
+                "NGO Name": "Nirmaan Organization",
+                "City": "Hyderabad",
+                "Address": "Hyderabad, Telangana",
+                "Description": "Focusing on education and community development."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [78.5569, 17.4499]
+            },
+            "properties": {
+                "NGO Name": "Teach for India",
+                "City": "Hyderabad",
+                "Address": "Hyderabad, Telangana",
+                "Description": "Eliminating educational inequity."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.8555, 18.5204]
+            },
+            "properties": {
+                "NGO Name": "Swadhar Greh",
+                "City": "Pune",
+                "Address": "Pune, Maharashtra",
+                "Description": "Shelter for women in crisis."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.8317, 18.5204]
+            },
+            "properties": {
+                "NGO Name": "Bharatiya Jain Sanghatana",
+                "City": "Pune",
+                "Address": "Pune, Maharashtra",
+                "Description": "Focus on rural development."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.5714, 23.0225]
+            },
+            "properties": {
+                "NGO Name": "Goonj",
+                "City": "Ahmedabad",
+                "Address": "Ahmedabad, Gujarat",
+                "Description": "Transforming discarded materials into resources."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.5880, 23.0224]
+            },
+            "properties": {
+                "NGO Name": "Sahyog",
+                "City": "Ahmedabad",
+                "Address": "Ahmedabad, Gujarat",
+                "Description": "Community development and empowerment."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8026, 21.1702]
+            },
+            "properties": {
+                "NGO Name": "Khushi Foundation",
+                "City": "Surat",
+                "Address": "Surat, Gujarat",
+                "Description": "Providing education and healthcare."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8268, 21.1702]
+            },
+            "properties": {
+                "NGO Name": "Sewa International",
+                "City": "Surat",
+                "Address": "Surat, Gujarat",
+                "Description": "Empowering marginalized communities."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [75.8134, 26.9124]
+            },
+            "properties": {
+                "NGO Name": "Manushi",
+                "City": "Jaipur",
+                "Address": "Jaipur, Rajasthan",
+                "Description": "Working for women empowerment."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [75.8572, 26.9124]
+            },
+            "properties": {
+                "NGO Name": "Seva Mandir",
+                "City": "Jaipur",
+                "Address": "Jaipur, Rajasthan",
+                "Description": "Community development and upliftment."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.3218, 26.4478]
+            },
+            "properties": {
+                "NGO Name": "Katha",
+                "City": "Kanpur",
+                "Address": "Kanpur, Uttar Pradesh",
+                "Description": "Literacy and education for underprivileged children."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [79.1101, 21.1458]
+            },
+            "properties": {
+                "NGO Name": "Astitva Foundation",
+                "City": "Nagpur",
+                "Address": "Nagpur, Maharashtra",
+                "Description": "Empowering women and children."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.9462, 26.8468]
+            },
+            "properties": {
+                "NGO Name": "Aangan Trust",
+                "City": "Lucknow",
+                "Address": "Lucknow, Uttar Pradesh",
+                "Description": "Working with vulnerable children and families."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83.2180, 17.6868]
+            },
+            "properties": {
+                "NGO Name": "Mann Deshi Foundation",
+                "City": "Visakhapatnam",
+                "Address": "Visakhapatnam, Andhra Pradesh",
+                "Description": "Supporting women entrepreneurs."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.3943, 23.2599]
+            },
+            "properties": {
+                "NGO Name": "Sanjivani Trust",
+                "City": "Bhopal",
+                "Address": "Bhopal, Madhya Pradesh",
+                "Description": "Focusing on healthcare and education."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.3204, 25.4325]
+            },
+            "properties": {
+                "NGO Name": "Haq Centre",
+                "City": "Patna",
+                "Address": "Patna, Bihar",
+                "Description": "Advocating for rights and justice."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.1894, 22.3098]
+            },
+            "properties": {
+                "NGO Name": "Muktangan",
+                "City": "Vadodara",
+                "Address": "Vadodara, Gujarat",
+                "Description": "Providing quality education."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.4377, 28.6692]
+            },
+            "properties": {
+                "NGO Name": "Nayi Disha",
+                "City": "Ghaziabad",
+                "Address": "Ghaziabad, Uttar Pradesh",
+                "Description": "Empowering youth through education."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [75.7804, 30.9009]
+            },
+            "properties": {
+                "NGO Name": "Khalsa Aid",
+                "City": "Ludhiana",
+                "Address": "Ludhiana, Punjab",
+                "Description": "Providing relief to the needy."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [78.0785, 27.1767]
+            },
+            "properties": {
+                "NGO Name": "Sankalp",
+                "City": "Agra",
+                "Address": "Agra, Uttar Pradesh",
+                "Description": "Supporting education and social initiatives."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.9097, 19.9996]
+            },
+            "properties": {
+                "NGO Name": "Maharashtra Mandal",
+                "City": "Nashik",
+                "Address": "Nashik, Maharashtra",
+                "Description": "Promoting cultural and educational initiatives."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.0282, 11.0168]
+            },
+            "properties": {
+                "NGO Name": "Sarva Seva Sangh",
+                "City": "Coimbatore",
+                "Address": "Coimbatore, Tamil Nadu",
+                "Description": "Focusing on rural development."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [75.3624, 19.8776]
+            },
+            "properties": {
+                "NGO Name": "Jankalyan",
+                "City": "Aurangabad",
+                "Address": "Aurangabad, Maharashtra",
+                "Description": "Empowering local communities."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.6850, 26.2764]
+            },
+            "properties": {
+                "NGO Name": "Bhanwar Singh Shekhawat Foundation",
+                "City": "Jodhpur",
+                "Address": "Jodhpur, Rajasthan",
+                "Description": "Supporting education and health initiatives."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.6237, 23.3441]
+            },
+            "properties": {
+                "NGO Name": "Asha Kiran",
+                "City": "Ranchi",
+                "Address": "Ranchi, Jharkhand",
+                "Description": "Providing education and support to street children."
+            }
+        }
+    ]
+}

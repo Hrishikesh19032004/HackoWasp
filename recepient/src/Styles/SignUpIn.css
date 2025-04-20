@@ -1,0 +1,153 @@
+.contain {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .container {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    padding-top: 6rem;
+    padding-bottom: 10rem ;
+  }
+  
+  .container h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .container p {
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-weight: 100;
+  }
+  
+  .container .btn1 {
+    color: #fff;
+    background: #41B2A5;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    border: 2px solid transparent;
+  }
+  .container .btn2 {
+    color: black;
+    background: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    border: 2px solid black;
+  }
+  
+  .container .btn1:hover {
+    background: white;
+    color: black;
+    border: 2px solid ;
+  }
+  .container .btn2:hover {
+    background: #41B2A5;
+    color: white;
+    border: 2px solid transparent;
+  }
+  /* Abstract Line Styling for Background */
+.abstract-lines {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.line {
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  background: black;
+  opacity: 0.2;
+  animation: move-line 6s infinite linear;
+}
+
+.green-line {
+  background: green;
+  opacity: 0.5;
+}
+
+.diagonal {
+  transform: rotate(45deg);
+  width: 150%;
+}
+
+@keyframes move-line {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* Positioning lines */
+.line:nth-child(1) {
+  top: 20%;
+}
+
+.line:nth-child(2) {
+  top: 40%;
+}
+
+.line:nth-child(3) {
+  top: 60%;
+}
+
+.line:nth-child(4) {
+  top: 80%;
+}
+
+/* Abstract Lines Around Divs (Straw Plate Effect) */
+.container {
+  position: relative;
+  overflow: hidden;
+}
+
+.container::before,
+.container::after {
+  content: '';
+  position: absolute;
+  border: 2px solid black;
+  border-radius: 10px;
+  z-index: -1;
+  opacity: 0.2;
+  pointer-events: none;
+}
+
+/* Outer Abstract Border (Black Lines) */
+.container::before {
+  top: -15px;
+  left: -15px;
+  right: -15px;
+  bottom: -15px;
+  transform: rotate(2deg);
+}
+
+.container::after {
+  top: -25px;
+  left: -25px;
+  right: -25px;
+  bottom: -25px;
+  transform: rotate(-3deg);
+}
+
+/* Additional Styling for Green Lines */
+.container.green::before,
+.container.green::after {
+  border-color: green;
+  opacity: 0.5;
+}

@@ -1,0 +1,200 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8777, 19.0760]
+            },
+            "properties": {
+                "NGO Name": "Bal Asha Trust",
+                "City": "Mumbai",
+                "Address": "King George V Memorial, Dr E Moses Road, Mahalaxmi, Mumbai, Maharashtra 400011",
+                "Description": "Care center for abandoned and orphaned children, providing education and medical care."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8369, 19.0821]
+            },
+            "properties": {
+                "NGO Name": "St. Catherine's Home",
+                "City": "Mumbai",
+                "Address": "Veera Desai Road, Andheri West, Mumbai, Maharashtra 400058",
+                "Description": "Christian orphanage providing care and education to girls."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8308, 19.1119]
+            },
+            "properties": {
+                "NGO Name": "Missionary of Charity",
+                "City": "Mumbai",
+                "Address": "Linking Road, Bandra West, Mumbai, Maharashtra 400050",
+                "Description": "Orphanage run by Mother Teresa's organization, caring for abandoned children."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.2090, 28.6139]
+            },
+            "properties": {
+                "NGO Name": "Udayan Care",
+                "City": "Delhi",
+                "Address": "16/97-A, Vikram Vihar, Lajpat Nagar 4, New Delhi, Delhi 110024",
+                "Description": "Home for orphaned and abandoned children with focus on education."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.2006, 28.5891]
+            },
+            "properties": {
+                "NGO Name": "Prayas Juvenile Aid Centre",
+                "City": "Delhi",
+                "Address": "59, Tughlakabad Institutional Area, New Delhi, Delhi 110062",
+                "Description": "Shelter home for vulnerable children providing rehabilitation and education."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.2795, 28.6358]
+            },
+            "properties": {
+                "NGO Name": "Kilkari Rainbow Home",
+                "City": "Delhi",
+                "Address": "Kashmere Gate, Delhi 110006",
+                "Description": "Government initiative for street children and orphans."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3639, 22.5726]
+            },
+            "properties": {
+                "NGO Name": "Hope Foundation",
+                "City": "Kolkata",
+                "Address": "39 Panditiya Place, Kolkata, West Bengal 700029",
+                "Description": "Provides shelter, education, and healthcare to street children and orphans."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3425, 22.5697]
+            },
+            "properties": {
+                "NGO Name": "Loreto Day School Sealdah",
+                "City": "Kolkata",
+                "Address": "122 AJC Bose Road, Sealdah, Kolkata, West Bengal 700014",
+                "Description": "Rainbow Home program providing shelter to street children."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3776, 22.5455]
+            },
+            "properties": {
+                "NGO Name": "New Light",
+                "City": "Kolkata",
+                "Address": "Kalighat, Kolkata, West Bengal 700026",
+                "Description": "Home for children of sex workers and orphans in red light areas."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.5946, 12.9716]
+            },
+            "properties": {
+                "NGO Name": "Compassion Unlimited",
+                "City": "Bangalore",
+                "Address": "45, 5th Cross, Koramangala, Bengaluru, Karnataka 560034",
+                "Description": "Child care institution providing shelter and education."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.6217, 12.9350]
+            },
+            "properties": {
+                "NGO Name": "Ashraya Orphanage",
+                "City": "Bangalore",
+                "Address": "BTM Layout, Bengaluru, Karnataka 560076",
+                "Description": "Home for orphaned and abandoned children with focus on holistic development."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.5808, 12.9992]
+            },
+            "properties": {
+                "NGO Name": "Miracle Foundation India",
+                "City": "Bangalore",
+                "Address": "Malleswaram, Bengaluru, Karnataka 560003",
+                "Description": "Transforming orphanages into child care institutions."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.8567, 18.5204]
+            },
+            "properties": {
+                "NGO Name": "SOS Children's Village",
+                "City": "Pune",
+                "Address": "Survey No. 50, Yerawada, Pune, Maharashtra 411006",
+                "Description": "Family-based care program for children who have lost parental care."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.9075, 18.5362]
+            },
+            "properties": {
+                "NGO Name": "Maher Ashram",
+                "City": "Pune",
+                "Address": "Koregaon Park, Pune, Maharashtra 411001",
+                "Description": "Home for destitute children and women, providing education and vocational training."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.8131, 18.5089]
+            },
+            "properties": {
+                "NGO Name": "Shreevatsa",
+                "City": "Pune",
+                "Address": "Lakaki Road, Model Colony, Pune, Maharashtra 411016",
+                "Description": "Child care institution run by Sasoon Hospital for abandoned children."
+            }
+        }
+    ]
+}
